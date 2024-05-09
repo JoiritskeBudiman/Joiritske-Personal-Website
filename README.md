@@ -1,2 +1,2 @@
-# Joiritske-Personal-Website
+# Joiritske-Personal
 Web
